@@ -29,3 +29,6 @@ PyTimeZoneConverter 是一个简单而强大的时区转换工具，使用 Pytho
 ## 使用方法
 
 运行以下命令启动应用：
+   ```
+   python PyTimeZoneConverter
+   ```
